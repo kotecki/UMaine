@@ -28,19 +28,19 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 10426,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "css/myfile.css",
 			"settings":
 			{
 				"buffer_size": 1491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13082,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -122,6 +122,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Kotecki/Dropbox/HTML/DEK_UMaine/index.html",
 		"/home/David/Dropbox/HTML/DEK_Personal/index.html",
 		"/home/David/Dropbox/HTML/DEK_Personal/css/myfile.css",
 		"/home/David/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
@@ -253,43 +254,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10426,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3561,
-								3561
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"spell_check": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1457.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "css/myfile.css",
 					"semi_transient": false,
 					"settings":
@@ -313,10 +282,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1406.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6068,
+								6068
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
