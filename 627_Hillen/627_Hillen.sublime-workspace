@@ -28,10 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "css/myfile.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1491,
+				"buffer_size": 6617,
 				"line_ending": "Unix"
 			}
 		}
@@ -113,6 +113,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Kotecki/Dropbox/HTML/DEK_UMaine/css/myfile.css",
 		"/Users/Kotecki/Dropbox/HTML/DEK_UMaine/index.html",
 		"/home/David/Dropbox/HTML/DEK_Personal/index.html",
 		"/home/David/Dropbox/HTML/DEK_Personal/css/myfile.css",
@@ -221,13 +222,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"python",
-			"command",
-			"build",
-			"python ",
-			">\n",
-			"return",
-			"def"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -250,26 +244,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "css/myfile.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1491,
+						"buffer_size": 6617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1491,
-								1491
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -326,7 +319,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
-	"project": "DEK_UMaine.sublime-project",
+	"project": "627_Hillen.sublime-project",
 	"replace":
 	{
 		"height": 48.0
