@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"r",
+				"rotate90"
+			],
+			[
+				"ro",
+				"rotate90"
+			],
+			[
 				"btn",
 				"btn-responsive"
 			],
@@ -31,7 +39,26 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6617,
+				"buffer_size": 14224,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/myfile.css",
+			"settings":
+			{
+				"buffer_size": 836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/myfile_pictures.css",
+			"settings":
+			{
+				"buffer_size": 1134,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -248,28 +275,98 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6617,
+						"buffer_size": 14224,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								9747,
+								9908
 							]
 						],
 						"settings":
 						{
+							"SL.13.region_keys":
+							[
+							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 3,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4348.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/myfile.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								835,
+								835
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/myfile_pictures.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								948,
+								948
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
